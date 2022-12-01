@@ -1,0 +1,70 @@
+body {
+    font-size: 14px;
+    background-color:hsl(228, 12%, 48%);
+    width: auto;
+    height: auto;
+    text-transform: capitalize;
+}
+.container {
+    display: grid;
+    font-family: Montserrat;
+    align-items: center;
+    justify-content: center;
+    width: 1440px;
+    height: 1440px;
+}
+.box {
+    display: flex;
+    height: 450px;
+    word-spacing: 4px;
+    font-family: Fraunces;
+    background-color: white;
+    border: 2px solid white;
+    border-radius: 20px;
+    width: 600px;
+}
+.price {
+    font-size: 30px;
+    font-weight: 30px;
+    font-weight: bolder;
+    align-items: center;
+    line-height: 25px;
+    font-family: Fraunces;
+}
+input {
+    background-color:hsl(158, 36%, 37%);
+    text-transform: capitalize;
+    font-size: 20px;
+    color: white;
+    border-width: 8px 50px 8px 50px ;
+    border-color: hsl(158, 36%, 37%);
+    border-style: solid;
+    border-radius: 7px;
+}
+.two {
+    line-height: 30px;
+    word-spacing: 3px;
+    padding: 15px 5px 5px 20px ;
+}
+.one img {
+    border: 0px;
+    border-style: solid;
+    border-radius: 20px;
+}
+.par {
+    line-height :20px;
+    font-family: Montserrat;
+    font-size: 14px;
+}
+.mel {
+    font-size: 30px;
+    font-weight: 30px;
+    font-weight: bolder;
+    align-items: center;
+    line-height: 25px;
+    font-family: Fraunces;
+    color:hsl(158, 36%, 37%);
+}
+sup {
+    font-size: 15px;
+}
